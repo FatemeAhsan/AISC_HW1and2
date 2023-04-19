@@ -1,2 +1,2 @@
 # AISC_HWs
-HWs for AISC
+AISC HW 1_1, 1_2
