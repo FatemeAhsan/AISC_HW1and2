@@ -1,2 +1,2 @@
-# AISC_HW 1_1, 1_2
-AISC HW 1_1, 1_2
+# AISC_HWs
+AISC HWs
